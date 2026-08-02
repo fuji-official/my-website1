@@ -1,0 +1,6 @@
+{
+  "name": "FUJI Freeze-Dried Universe",
+  "description": "وبسایت رسمی محصولات فریزدرای (Freeze-Dried) پریمیوم فوجی - دنیای ترد، سالم و هیجان‌انگیز بستنی، میوه و خوراکی‌های فریزدرای شده",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
